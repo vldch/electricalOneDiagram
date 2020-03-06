@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "elecOneDirgam", "elecOneDirgam.pyproj", "{8C69E47A-9D7A-4D60-980B-C960DA0E5CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C69E47A-9D7A-4D60-980B-C960DA0E5CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C69E47A-9D7A-4D60-980B-C960DA0E5CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77EC14A3-D356-47A3-BBD0-0BC6C122D784}
+	EndGlobalSection
+EndGlobal
